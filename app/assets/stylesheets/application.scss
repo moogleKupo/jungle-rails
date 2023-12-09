@@ -111,3 +111,14 @@ form.button_to {
 .text-danger {
   color: #f38792 !important;
 }
+
+tbody td.price {
+  margin: 0;
+  padding: 0.25em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(0, 130, 29, 0.7);
+  font-weight: 700;
+  font-family: "Montserrat";
+}
